@@ -1,16 +1,18 @@
-### Hi there 👋
+## Python Developer
 
-<!--
-**SadLaboka/SadLaboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+![Python](https://img.shields.io/badge/-Python-success)
+![Django](https://img.shields.io/badge/-Django-red)
+![DRF](https://img.shields.io/badge/-DRF-9cf)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![MySQL](https://img.shields.io/badge/-MySQL-orange)
+![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-green)
+![HTML](https://img.shields.io/badge/-HTML-yellow)
+![CSS](https://img.shields.io/badge/-CSS-blueviolet)
+![Git](https://img.shields.io/badge/-Git-gray)
+![Linux](https://img.shields.io/badge/-Linux-critical)
 
-Here are some ideas to get you started:
+## Contacts:
+![Telegram](https://img.shields.io/badge/-Telegram-informational)  https://t.me/SadLaboka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Email](https://img.shields.io/badge/-Email-success)  jiutbuh@gmail.com
