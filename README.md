@@ -4,8 +4,6 @@
 ![Python](https://img.shields.io/badge/-Python-success)
 ![Django](https://img.shields.io/badge/-Django-red)
 ![DRF](https://img.shields.io/badge/-DRF-9cf)
-![SQL](https://img.shields.io/badge/-SQL-blue)
-![MySQL](https://img.shields.io/badge/-MySQL-orange)
 ![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-green)
 ![HTML](https://img.shields.io/badge/-HTML-yellow)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
