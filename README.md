@@ -16,4 +16,9 @@
 ## Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SadLaboka)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiutbuh@gmail.com)
+<details>
+  <summary>E-mail</summary>
+  
+## jiutbuh@gmail.com
+</details>
+
