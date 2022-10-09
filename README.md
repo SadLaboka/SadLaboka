@@ -1,6 +1,5 @@
 ## Python Developer
 
-## Skills:
 ![Python](https://img.shields.io/badge/-Python-success)
 ![Django](https://img.shields.io/badge/-Django-green)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-violet)
